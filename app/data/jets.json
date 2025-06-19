@@ -1,0 +1,404 @@
+{
+  "jets": [
+    {
+      "id": "jet-001",
+      "name": "Citation CJ3+",
+      "category": "Light Jet",
+      "description": "The Citation CJ3+ is a light business jet that offers exceptional performance, comfort, and reliability. With a spacious cabin that seats up to 9 passengers, it's perfect for short to medium-range flights. The aircraft features luxurious leather seating, fold-out tables, and advanced entertainment systems.",
+      "capacity": 9,
+      "pricePerDay": 12500,
+      "rangeKm": 3778,
+      "maxSpeedKmh": 770,
+      "cruiseSpeed": 720,
+      "maxFlightHours": 6,
+      "luggageCapacity": 450,
+      "yearManufactured": 2020,
+      "features": [
+        "Spacious cabin design",
+        "Advanced avionics",
+        "Fuel-efficient engines",
+        "Short takeoff and landing capability",
+        "Excellent passenger comfort",
+        "Low operating costs"
+      ],
+      "images": [
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/cessna-citation-cj3-1.jpg",
+        "https://images.aircharterservice.com/content/cessna-citation-cj3-interior-sizing.jpg",
+        "https://central.aero/wp-content/uploads/1-2.jpg",
+        "https://central.aero/wp-content/uploads/5-2.jpg"
+      ],
+      "floorplan": "https://central.aero/wp-content/uploads/CJ3-Interior-Diagram.png",
+      "specifications": {
+        "manufacturer": "Cessna",
+        "yearManufactured": 2020,
+        "length": "15.6m",
+        "wingspan": "16.3m",
+        "height": "4.8m",
+        "maxAltitude": "45,000 ft",
+        "cabinWidth": "1.47m",
+        "cabinHeight": "1.45m",
+        "cabinLength": "4.8m",
+        "baggageCapacity": "1.8 cubic meters"
+      },
+      "amenities": [
+        "Leather seating",
+        "Fold-out tables",
+        "Power outlets",
+        "Wi-Fi connectivity",
+        "Entertainment system",
+        "Refreshment center",
+        "Private lavatory"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "jet-002",
+      "name": "Gulfstream G550",
+      "category": "Heavy Jet",
+      "description": "The Gulfstream G550 is a long-range business jet that offers exceptional performance, comfort, and reliability. With a spacious cabin that can accommodate up to 19 passengers, it's perfect for long-haul international flights. The aircraft features luxurious seating, a full galley, private sleeping quarters, and state-of-the-art entertainment systems.",
+      "capacity": 19,
+      "pricePerDay": 48000,
+      "rangeKm": 12501,
+      "maxSpeedKmh": 941,
+      "cruiseSpeed": 850,
+      "maxFlightHours": 14,
+      "luggageCapacity": 1800,
+      "yearManufactured": 2019,
+      "features": [
+        "Intercontinental range capability",
+        "Stand-up cabin with multiple living areas",
+        "Advanced flight deck",
+        "Excellent climb performance",
+        "Quiet cabin environment",
+        "Enhanced vision system"
+      ],
+      "images": [
+        "https://www.silverair.com/wp-content/uploads/2021/04/g550.jpg",
+        "https://www.guardianjet.com/hal/userfiles/images/model-slides/132-2.jpg",
+        "https://www.silverair.com/wp-content/uploads/2021/02/40-pic-7.jpg",
+        "https://www.gainjet.com/wp-content/uploads/2022/04/G550_vip-seating.png"
+      ],
+      "floorplan": "https://www.gainjet.com/wp-content/uploads/2022/04/G550-Layout-1000x260-1-768x200.png",
+      "specifications": {
+        "manufacturer": "Gulfstream Aerospace",
+        "yearManufactured": 2019,
+        "length": "29.4m",
+        "wingspan": "28.5m",
+        "height": "7.87m",
+        "maxAltitude": "51,000 ft",
+        "cabinWidth": "2.24m",
+        "cabinHeight": "1.88m",
+        "cabinLength": "13.39m",
+        "baggageCapacity": "6.4 cubic meters"
+      },
+      "amenities": [
+        "Full-size galley",
+        "Private sleeping quarters",
+        "Multiple lavatory facilities",
+        "Satellite phone",
+        "High-speed Wi-Fi",
+        "Advanced entertainment system",
+        "Conference area",
+        "Private office space",
+        "Full refreshment center"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "jet-003",
+      "name": "Embraer Phenom 300",
+      "category": "Light Jet",
+      "description": "The Embraer Phenom 300 is a light business jet known for its outstanding performance and comfort. With a stylish cabin that accommodates up to 11 passengers, it's ideal for regional business trips or leisure travel. The aircraft features ergonomic seating, generous baggage space, and modern amenities.",
+      "capacity": 11,
+      "pricePerDay": 13800,
+      "rangeKm": 3650,
+      "maxSpeedKmh": 839,
+      "cruiseSpeed": 750,
+      "maxFlightHours": 7,
+      "luggageCapacity": 575,
+      "yearManufactured": 2021,
+      "features": [
+        "Best-in-class performance",
+        "Spacious cabin design",
+        "Large baggage compartment",
+        "Advanced avionics suite",
+        "Excellent fuel efficiency",
+        "Impressive speed capabilities"
+      ],
+      "images": [
+        "https://www.guardianjet.com/userfiles/images/50500216/GJ_2015_Phenom_300_SN_216_main.png",
+        "https://www.generation-global.com/cdn/shop/files/WhatsApp_Image_2022-12-15_at_7.48.35_PM_1.jpg?v=1712134778",
+        "https://www.generation-global.com/cdn/shop/files/WhatsApp_Image_2022-12-15_at_7.48.33_PM.jpg?v=1712134779",
+        "https://www.generation-global.com/cdn/shop/files/WhatsApp_Image_2022-12-15_at_7.48.39_PM.jpg?v=1712134779"
+      ],
+      "floorplan": "https://executive.embraer.com/media/P300_1120x630.png",
+      "specifications": {
+        "manufacturer": "Embraer",
+        "yearManufactured": 2021,
+        "length": "15.6m",
+        "wingspan": "15.9m",
+        "height": "5.1m",
+        "maxAltitude": "45,000 ft",
+        "cabinWidth": "1.55m",
+        "cabinHeight": "1.5m",
+        "cabinLength": "5.23m",
+        "baggageCapacity": "2.1 cubic meters"
+      },
+      "amenities": [
+        "Ergonomic seating",
+        "Large windows",
+        "Refreshment center",
+        "Entertainment system",
+        "Wi-Fi connectivity",
+        "Power outlets",
+        "Private lavatory"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "jet-004",
+      "name": "Bombardier Challenger 350",
+      "category": "Mid-Size Jet",
+      "description": "The Bombardier Challenger 350 is a super mid-size business jet with impressive range and performance. Its spacious cabin accommodates up to 10 passengers in ultimate comfort. The aircraft features a flat floor, stand-up cabin, luxurious seating, and advanced technology for an exceptional flying experience.",
+      "capacity": 10,
+      "pricePerDay": 25000,
+      "rangeKm": 5926,
+      "maxSpeedKmh": 870,
+      "cruiseSpeed": 820,
+      "maxFlightHours": 8,
+      "luggageCapacity": 750,
+      "yearManufactured": 2022,
+      "features": [
+        "Flat floor cabin design",
+        "Best-in-class cabin soundproofing",
+        "Advanced wing technology",
+        "Excellent short-field performance",
+        "Customizable interior layout",
+        "State-of-the-art avionics"
+      ],
+      "images": [
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/bombardier-challenger-350.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/bombardier-challenger-350-13.png",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/bombardier-challenger-350-10.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/bombardier-challenger-350-11.jpg"
+      ],
+      "floorplan": "https://images.aircharterservice.com/content/bombardier-challenger-300-config-slim-2.png",
+      "specifications": {
+        "manufacturer": "Bombardier",
+        "yearManufactured": 2022,
+        "length": "20.9m",
+        "wingspan": "21.2m",
+        "height": "6.1m",
+        "maxAltitude": "45,000 ft",
+        "cabinWidth": "2.19m",
+        "cabinHeight": "1.83m",
+        "cabinLength": "7.68m",
+        "baggageCapacity": "3.6 cubic meters"
+      },
+      "amenities": [
+        "Flat floor cabin",
+        "Luxurious leather seating",
+        "Full refreshment center",
+        "Advanced cabin management system",
+        "High-speed Wi-Fi",
+        "HD monitors",
+        "Bluetooth audio",
+        "Private lavatory",
+        "Generous baggage compartment"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "jet-005",
+      "name": "Dassault Falcon 7X",
+      "category": "Heavy Jet",
+      "description": "The Dassault Falcon 7X is a long-range business jet with exceptional performance and efficiency. Its spacious cabin offers seating for up to 16 passengers with multiple configuration options. The aircraft features advanced technology, luxurious amenities, and exceptional comfort for long-haul international flights.",
+      "capacity": 16,
+      "pricePerDay": 39500,
+      "rangeKm": 11019,
+      "maxSpeedKmh": 956,
+      "cruiseSpeed": 870,
+      "maxFlightHours": 13,
+      "luggageCapacity": 1400,
+      "yearManufactured": 2020,
+      "features": [
+        "Tri-jet configuration for enhanced safety",
+        "Digital flight control system",
+        "Advanced vision system",
+        "Smooth and quiet cabin experience",
+        "Excellent fuel efficiency",
+        "Steep approach capability"
+      ],
+      "images": [
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/dassault-falcon-7x.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/dassault-falcon-7x-3.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/dassault-falcon-7x-14.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/dassault-falcon-7x-4.jpg"
+      ],
+      "floorplan": "https://images.aircharterservice.com/content/dassault-falcon-7x-layout-slim-2.png",
+      "specifications": {
+        "manufacturer": "Dassault Aviation",
+        "yearManufactured": 2020,
+        "length": "23.38m",
+        "wingspan": "26.21m",
+        "height": "7.9m",
+        "maxAltitude": "51,000 ft",
+        "cabinWidth": "2.34m",
+        "cabinHeight": "1.88m",
+        "cabinLength": "11.91m",
+        "baggageCapacity": "4.5 cubic meters"
+      },
+      "amenities": [
+        "Multiple cabin configurations",
+        "Private stateroom",
+        "Full galley",
+        "Multiple lavatory facilities",
+        "Advanced entertainment system",
+        "Satellite communications",
+        "High-speed Wi-Fi",
+        "Conference grouping",
+        "Individual controls for lighting and temperature"
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": "jet-006",
+      "name": "Hawker 800XP",
+      "category": "Mid-Size Jet",
+      "description": "The Hawker 800XP is a reliable mid-size business jet with a proven track record. Its comfortable cabin accommodates up to 8 passengers with excellent amenities. The aircraft offers a good balance of performance, comfort, and value for corporate travel and leisure trips.",
+      "capacity": 8,
+      "pricePerDay": 18500,
+      "rangeKm": 4630,
+      "maxSpeedKmh": 840,
+      "cruiseSpeed": 745,
+      "maxFlightHours": 6,
+      "luggageCapacity": 600,
+      "yearManufactured": 2018,
+      "features": [
+        "Spacious stand-up cabin",
+        "Excellent short-field performance",
+        "Renowned reliability",
+        "Cost-effective operations",
+        "Comfortable cabin environment",
+        "Comprehensive avionics suite"
+      ],
+      "images": [
+        "https://images.aircharterservice.com/content/hawker-800xp-exterior.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/hawker-800xpi-4.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/hawker-800xpi-3.jpg",
+        "https://images.aircharterservice.com/global/aircraft-guide/private-charter/hawker-800xpi-1.jpg"
+      ],
+      "floorplan": "https://images.aircharterservice.com/content/hawker-beechcraft800xpi.png",
+      "specifications": {
+        "manufacturer": "Hawker Beechcraft",
+        "yearManufactured": 2018,
+        "length": "15.6m",
+        "wingspan": "15.66m",
+        "height": "5.51m",
+        "maxAltitude": "41,000 ft",
+        "cabinWidth": "1.83m",
+        "cabinHeight": "1.75m",
+        "cabinLength": "6.5m",
+        "baggageCapacity": "2.26 cubic meters"
+      },
+      "amenities": [
+        "Comfortable seating",
+        "Refreshment center",
+        "Entertainment system",
+        "Work tables",
+        "Power outlets",
+        "Wi-Fi connectivity",
+        "Private lavatory"
+      ],
+      "isAvailable": true
+    }
+  ],
+  "additionalServices": [
+    {
+      "id": "service-001",
+      "name": "VIP Ground Transportation",
+      "description": "Luxury car service to and from the airport",
+      "price": 350
+    },
+    {
+      "id": "service-002",
+      "name": "Premium Catering",
+      "description": "Gourmet meals and beverages customized to your preferences",
+      "price": 1200
+    },
+    {
+      "id": "service-003",
+      "name": "Concierge Service",
+      "description": "Personal concierge to handle all travel arrangements and special requests",
+      "price": 800
+    },
+    {
+      "id": "service-004",
+      "name": "In-flight Entertainment Package",
+      "description": "Enhanced entertainment options including premium streaming services and gaming",
+      "price": 500
+    },
+    {
+      "id": "service-005",
+      "name": "Business Services",
+      "description": "On-board meeting preparation, printing services, and communication equipment",
+      "price": 650
+    },
+    {
+      "id": "service-006",
+      "name": "Custom Cabin Configuration",
+      "description": "Special seating arrangements to accommodate your specific needs",
+      "price": 750
+    }
+  ],
+  "locations": [
+    {
+      "id": "loc-001",
+      "name": "Lagos",
+      "code": "LOS",
+      "fullName": "Murtala Muhammed International Airport"
+    },
+    {
+      "id": "loc-002",
+      "name": "Abuja",
+      "code": "ABV",
+      "fullName": "Nnamdi Azikiwe International Airport"
+    },
+    {
+      "id": "loc-003",
+      "name": "Port Harcourt",
+      "code": "PHC",
+      "fullName": "Port Harcourt International Airport"
+    },
+    {
+      "id": "loc-004",
+      "name": "Accra",
+      "code": "ACC",
+      "fullName": "Kotoka International Airport"
+    },
+    {
+      "id": "loc-005",
+      "name": "London",
+      "code": "LHR",
+      "fullName": "Heathrow Airport"
+    },
+    {
+      "id": "loc-006",
+      "name": "Dubai",
+      "code": "DXB",
+      "fullName": "Dubai International Airport"
+    },
+    {
+      "id": "loc-007",
+      "name": "New York",
+      "code": "JFK",
+      "fullName": "John F. Kennedy International Airport"
+    },
+    {
+      "id": "loc-008",
+      "name": "Johannesburg",
+      "code": "JNB",
+      "fullName": "O.R. Tambo International Airport"
+    }
+  ]
+}
